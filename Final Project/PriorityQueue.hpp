@@ -1,6 +1,6 @@
 //========================================================
 // PriorityQueue.hpp
-// Tren Meckel & Amaya Joshi
+// Tren Meckel 
 // December 18, 2024
 //
 // Description:
